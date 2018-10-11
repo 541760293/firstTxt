@@ -2,4 +2,4 @@ this is my first file in git
 2018/10/1 13.24 update
 write by dev
 write by tortoisegit
-write by bug0002
+write by bug0003
